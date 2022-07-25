@@ -115,3 +115,6 @@ background: rgb(248, 248, 248);
     color: rgba(0, 0, 0, 0.415);
     font-size: .8em;
 }
+#label-form{
+    font-size: 2vw;
+}
